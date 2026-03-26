@@ -2,7 +2,7 @@
 possum.js
 
 
-javascript.js for load .mov file and stream in Octave mode for playback, use Web Standard Controls
+QUANTUM VIDEO PLAYER FOR javascript.js to load .mov file and stream in Quantum Octave modality for playback, using The Web Standard Controls
 
 Here’s a simple web-standard JavaScript setup to load and play a .mov file using the browser’s native <video> element with built-in controls. This is the most reliable approach (no custom player needed).
 
